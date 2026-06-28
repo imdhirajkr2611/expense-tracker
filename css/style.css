@@ -332,11 +332,6 @@ body {
     font-size: 1.1rem;
 }
 
-.amount-text::before {
-    content: '₹ ';
-    font-weight: 700;
-}
-
 /* ==================== Loading Spinner ==================== */
 .loading-spinner {
     position: fixed;
